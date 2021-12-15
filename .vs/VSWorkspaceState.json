@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcMasterDetails",
+    "\\MvcMasterDetails\\App_Data",
+    "\\MvcMasterDetails\\obj",
+    "\\MvcMasterDetails\\obj\\Debug",
+    "\\MvcMasterDetails\\Properties",
+    "\\MvcMasterDetails\\Scripts",
+    "\\MvcMasterDetails\\Views",
+    "\\MvcMasterDetails\\Views\\Home",
+    "\\MvcMasterDetails\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MvcMasterDetails.sln",
+  "PreviewInSolutionExplorer": false
+}
